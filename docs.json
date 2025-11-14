@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Platform docs",
         "groups": [
           {
             "group": "Getting started",
@@ -19,6 +19,12 @@
               "index",
               "quickstart",
               "development"
+            ]
+          },
+          {
+            "group": "Bridge",
+            "pages": [
+              "introdution"
             ]
           },
           {
