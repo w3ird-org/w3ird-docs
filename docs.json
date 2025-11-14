@@ -71,13 +71,13 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "anchor": "Starter",
+          "href": "https://w3ird.com/starter",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "anchor": "Bridge",
+          "href": "https://w3ird.com/bridge",
           "icon": "newspaper"
         }
       ]
@@ -90,14 +90,14 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "Contact",
+        "href": "https://w3ird.org"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Platform",
+      "href": "https://w3ird.com"
     }
   },
   "contextual": {
