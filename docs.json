@@ -24,7 +24,7 @@
           {
             "group": "Bridge",
             "pages": [
-              "introdution"
+              "bridge/introduction"
             ]
           },
           {
