@@ -84,7 +84,7 @@
     }
   },
   "logo": {
-    "light": "/logo/dard.svg",
+    "light": "/logo/dark.svg",
     "dark": "/logo/light.svg"
   },
   "navbar": {
